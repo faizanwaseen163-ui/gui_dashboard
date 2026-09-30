@@ -1,0 +1,4 @@
+echo "node_modules/" >> .gitignore
+echo "package.json" >> .gitignore
+echo "_pycache_" >> .gitignore
+
